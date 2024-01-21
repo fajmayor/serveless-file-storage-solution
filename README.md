@@ -7,3 +7,5 @@ Some common use cases include:
 * File Sharing and Collaboration
 * Data Archiving
 * Media Storage etc.
+
+  ![serverless-storage](https://github.com/fajmayor/serveless-file-storage-solution/assets/5481019/ca7f0401-ea39-4246-8c3b-0dc9e9a2e321)
